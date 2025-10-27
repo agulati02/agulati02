@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- SEO META TAGS (for search engines and link previews) -->
+<meta name="description" content="Software Engineer | Building robust, impactful systems | Machine Learning & Generative AI enthusiast">
+<meta name="keywords" content="Software Engineer, Machine Learning, Generative AI, AI Systems, Full Stack Developer, MLOps, Open Source, GitHub, Cloud Engineering">
 
-<!--
-**agulati02/agulati02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Anurag</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Software Engineer</em> | <em> Passionate about building robust, impactful systems </em> | <em> Exploring Machine Learning & Generative AI</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+I’m a **Software Engineer** who loves building **scalable, impactful systems** that make a difference.  
+
+- 💡 Currently exploring: **LLMs, AI agents, and MLOps best practices**
+- 🧩 Skilled in: **Python**, **FastAPI**, **Java**, **Spring Boot**, **AWS**
+- 🌍 Building: Tools that bridge **AI research** and **real-world applications**
+- ✍️ Occasionally writing about tech, AI, and productivity
+- 💬 Ask me about **system design**, **ML research**
+- 🤔 Other interests: **Economics**, **History**, **Psychology**
+
+---
+
+### 🧰 Tech Stack
+
+| Domain | Tools & Technologies |
+|:--|:--|
+| **Languages** | Python, Java, C/C++ |
+| **Frameworks** | FastAPI, Spring Boot |
+| **AI/ML** | TensorFlow, LangChain |
+| **DevOps** | Docker, Kubernetes, AWS |
+| **Databases** | MongoDB, PostgreSQL |
+| **Other** | REST APIs, gRPC, Microservices |
+
+---
+
+### 🧠 Featured Projects
+
+| Project | Description | Tech |
+|:--|:--|:--|
+| [**TGRAFY**](https://github.com/agulati02/tgrafy-repository-assistant) | An AI assistant for reviewing pull requests | Python, FastAPI, AWS, MongoDB |
+
+---
+
+### 🧩 Fun Facts
+
+- 🌱 Always learning something new — currently learning about **LLM fine-tuning** and **retrieval augmented generation (RAG)**  
+- 🧘‍♂️ Balance = code + chaos + curiosity  
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/anuraggulati19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anuraggulati1902@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building reliable systems that empower people — one commit at a time."</i>
+</p>
+
+---
+
+⭐️ From [Anurag Gulati](https://github.com/agulati02)
