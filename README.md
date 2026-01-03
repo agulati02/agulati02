@@ -41,6 +41,7 @@ I’m a **Software Engineer** who loves building **scalable, impactful systems**
 | Project | Description | Tech |
 |:--|:--|:--|
 | [**TGRAFY**](https://github.com/agulati02/tgrafy-repository-assistant) | An AI assistant for reviewing pull requests | Python, FastAPI, AWS, MongoDB |
+| [**Crypto Price Aggregator**]() | Backend service that aggregates crypto prices across exchanges. Demonstrates practical application of server-sent events (SSE) and reactive programming | Java, Spring Boot, Spring WebFlux, WebSockets, Reactive Programming
 
 ---
 
