@@ -40,8 +40,8 @@ I’m a **Software Engineer** who loves building **scalable, impactful systems**
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| [**TGRAFY**](https://github.com/agulati02/tgrafy-repository-assistant) | An AI assistant for reviewing pull requests | Python, FastAPI, AWS, MongoDB |
-| [**Crypto Price Aggregator**](https://github.com/agulati02/crypto-aggregator-app) | Backend service that aggregates crypto prices across exchanges. Demonstrates practical application of server-sent events (SSE) and reactive programming | Java, Spring Boot, Spring WebFlux, WebSockets, Reactive Programming
+| [**TermsGPT**](https://github.com/agulati02/termsgpt) | A Google Chrome extension that simplifies T&C pages for users. | Python, FastAPI, Anthropic SDK, JavaScript, Chrome Manifest V3 |
+| [**Crypto Price Aggregator**](https://github.com/agulati02/crypto-aggregator-app) | Backend service that aggregates crypto prices across exchanges. Demonstrates practical application of server-sent events (SSE) and reactive programming. | Java, Spring Boot, Spring WebFlux, WebSockets, Reactive Programming
 
 ---
 
