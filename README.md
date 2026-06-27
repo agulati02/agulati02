@@ -10,20 +10,20 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I’m a **Software Engineer** who loves building **scalable, impactful systems** that make a difference.  
 
-- 💡 Currently exploring: **LLMs, AI agents, and MLOps best practices**
-- 🧩 Skilled in: **Python**, **FastAPI**, **Java**, **Spring Boot**, **AWS**
-- 🌍 Building: Tools that bridge **AI research** and **real-world applications**
-- ✍️ Occasionally writing about tech, AI, and productivity
-- 💬 Ask me about **system design**, **ML research**
-- 🤔 Other interests: **Economics**, **History**, **Psychology**
+- Currently exploring: **LLMs, AI agents, and MLOps best practices**
+- Skilled in: **Python**, **FastAPI**, **Java**, **Spring Boot**, **AWS**
+- Building: Tools that bridge **AI research** and **real-world applications**
+- Occasionally writing about tech, AI, and productivity
+- Ask me about **system design**, **ML research**
+- Other interests: **Economics**, **History**, **Psychology**
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 | Domain | Tools & Technologies |
 |:--|:--|
@@ -36,7 +36,7 @@ I’m a **Software Engineer** who loves building **scalable, impactful systems**
 
 ---
 
-### 🧠 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |:--|:--|:--|
@@ -45,14 +45,7 @@ I’m a **Software Engineer** who loves building **scalable, impactful systems**
 
 ---
 
-### 🧩 Fun Facts
-
-- 🌱 Always learning something new — currently learning about **LLM fine-tuning** and **retrieval augmented generation (RAG)**  
-- 🧘‍♂️ Balance = code + chaos + curiosity  
-
----
-
-### 📫 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="www.linkedin.com/in/anuraggulati19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -64,7 +57,3 @@ I’m a **Software Engineer** who loves building **scalable, impactful systems**
 <p align="center">
   <i>"Building reliable systems that empower people — one commit at a time."</i>
 </p>
-
----
-
-⭐️ From [Anurag Gulati](https://github.com/agulati02)
